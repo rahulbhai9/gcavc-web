@@ -1,8 +1,8 @@
 {
-  "title": "My Astro Blog",
-  "description": "My musings about the Astro framework",
+  "title": "GCAVC",
+  "description": "Offitial website for Gujarat Chess asocitian for visually chelenged.",
   "image": {
     "src": "/images/image-default.jpg",
-    "alt": "My Astro Blog"
+    "alt": "Logo for GCAVC"
   }
 }
